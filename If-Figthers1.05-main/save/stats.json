@@ -1,0 +1,16 @@
+{
+  "playtime": 160.32,
+  "modes": {
+    "training": {
+      "playtime": 0,
+      "clear": 0
+    },
+    "versus": {
+      "playtime": 160.32,
+      "clear": 1,
+      "clearcount": {
+        "kfm": 1
+      }
+    }
+  }
+}
